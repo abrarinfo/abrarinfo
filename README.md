@@ -32,7 +32,9 @@
 
 <br/>
 
-## My Statistics
+<!-- ## My Statistics -->
+
+<h3 align="center">My StatisticsMy Statistics</h3>
 
 <br/>
 <p align="left">
