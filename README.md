@@ -23,7 +23,8 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+<!--     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing"> -->
+    <img src="https://i.ibb.co/tXhy23t/github.png">
   </a>
 </div>
 
@@ -34,8 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/abrarinfo/">
-<!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abrarinfo&show_icons=true&theme=gruvbox&hide_border=true" /> -->
-    <img width="49.5%" src="https://i.ibb.co/tXhy23t/github.png" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abrarinfo&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarinfo&theme=gruvbox&hide_border=true" />
   </a>
 </p>
