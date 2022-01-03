@@ -44,3 +44,11 @@
   </a>
 </p>
 <br>
+
+
+<p align="center" style="background-color:yellow; padding-top:5px;">
+ <a href=""><img src="imgs/github.png" alt="GitHub" width='40px' targer="blank"></a>
+ <a href=""><img src="imgs/twitter.png" alt="Twitter" width='40px' targer="blank"></a>
+ <a href=""><img src="imgs/linkedin.png" alt="LinkedIn" width='40px' targer="blank"></a>
+ <a href=""><img src="imgs/website.png" alt="website" width='40px' targer="blank"></a>
+</p>
