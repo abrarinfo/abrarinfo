@@ -27,8 +27,8 @@ and learning programming through small projects  on the side. -->
 <br/>
 <p align="left">
   <a href="https://github.com/abrarinfo/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abrarinfo&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarinfo&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
