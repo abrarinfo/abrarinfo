@@ -22,9 +22,9 @@
 <br>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-<!--     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing"> -->
-    <img src="https://i.ibb.co/tXhy23t/github.png">
+<!--   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v"> -->
+    <a href="https://www.facebook.com/abrarul533">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
 
