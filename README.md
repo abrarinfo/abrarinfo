@@ -29,9 +29,7 @@
   </a>
 </div>
 
-<br/>
 
-<!-- ## My Statistics -->
 
 <h3 align="center">My StatisticsMy Statistics</h3>
 
