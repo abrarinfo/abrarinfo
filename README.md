@@ -17,7 +17,9 @@
 
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abrarinfo)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abrarinfo) -->
+
+[abhigyantrips](https://github.com/abhigyantrips)
 
 <br>
 
