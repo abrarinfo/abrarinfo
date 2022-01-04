@@ -28,7 +28,7 @@
 
 <h3 align="center">My StatisticsMy Statistics</h3>
 
-<br/>
+<br>
 
 <p align="center">
   <a href="https://github.com/abrarinfo/">
@@ -37,8 +37,9 @@
   </a>
 </p>
 
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abrarinfo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abrarinfo)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
