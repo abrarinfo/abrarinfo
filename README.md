@@ -39,7 +39,7 @@
 
 <br>
 
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarinfo)] </p>
+<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarinfo)] </center>
 
 <br>
 
