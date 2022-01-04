@@ -37,9 +37,6 @@
   </a>
 </p>
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarinfo)](https://github.com/abrarinfo)
 
 <br>
 
