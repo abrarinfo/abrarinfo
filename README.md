@@ -5,9 +5,6 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<!-- <h3 align="left">Connect with me:</h3> -->
-<!-- <p align="left">
-</p> -->
 
 <br>
   
@@ -17,14 +14,12 @@
 
 <br>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abrarinfo) -->
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=abrarinfo&custom_title=Abrarul%20Haque's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 <br>
 
 <div align="center">
-<!--   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v"> -->
     <a href="https://www.facebook.com/abrarul533">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
