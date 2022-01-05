@@ -39,6 +39,13 @@
 
 <br>
 
+<p alingn="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarinfo)]
+  
+<p>
+
+<br>
 
 <p align="center" style="padding-top:5px;">
  <a href="https://github.com/abrarinfo"><img src="https://i.ibb.co/tXhy23t/github.png" alt="GitHub" width='40px' targer="blank"></a>
