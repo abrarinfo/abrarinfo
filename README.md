@@ -39,11 +39,6 @@
 
 <br>
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarinfo)
-
-<br>
-
 <p align="center" style="padding-top:5px;">
  <a href="https://github.com/abrarinfo"><img src="https://i.ibb.co/tXhy23t/github.png" alt="GitHub" width='40px' targer="blank"></a>
  <a href="https://twitter.com/abrarul_info"><img src="https://i.ibb.co/sJQ1pgn/twitter.png" alt="Twitter" width='40px' targer="blank"></a>
