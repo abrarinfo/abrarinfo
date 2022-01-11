@@ -14,9 +14,7 @@
 
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=abrarinfo&theme=react-dark&hide_border=true&area=true)
-
-<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=abrarinfo&custom_title=Abrarul%20Haque's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545) -->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=abrarinfo&custom_title=Abrarul%20Haque's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 <br>
 
@@ -31,15 +29,11 @@
 
 <br>
 
-<!-- <p align="center">
+<p align="center">
  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abrarinfo&show_icons=true&theme=gruvbox&hide_border=true" />
  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarinfo&theme=gruvbox&hide_border=true" />
-</p> -->
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarinfo&layout=compact&show_icon=true&theme=algolia" alt="abrarinfo-langs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=abrarinfo&layout=compact&show_icon=true&theme=algolia" alt="abrarinfo-stats"/>
 </p>
+
 
 <br>
 
