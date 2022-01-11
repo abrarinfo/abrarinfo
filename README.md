@@ -31,11 +31,14 @@
 
 <br>
 
+<!-- <p align="center">
+ <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abrarinfo&show_icons=true&theme=gruvbox&hide_border=true" />
+ <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarinfo&theme=gruvbox&hide_border=true" />
+</p> -->
+
 <p align="center">
-  <a href="https://github.com/abrarinfo/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abrarinfo&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarinfo&theme=gruvbox&hide_border=true" />
-  </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarinfo&layout=compact&show_icon=true&theme=algolia" alt="abrarinfo-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=abrarinfo&layout=compact&show_icon=true&theme=algolia" alt="abrarinfo-stats"/>
 </p>
 
 <br>
