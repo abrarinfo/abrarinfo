@@ -34,8 +34,11 @@
  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarinfo&theme=gruvbox&hide_border=true" />
 </p>
 
+<hr>
 
-<br>
+![](./profile-3d-contrib/profile-green.svg)
+
+<hr>
 
 <p align="center" style="padding-top:5px;">
  <a href="https://github.com/abrarinfo"><img src="https://i.ibb.co/tXhy23t/github.png" alt="GitHub" width='40px' targer="blank"></a>
@@ -44,9 +47,7 @@
  <a href=""><img src="https://i.ibb.co/5My5Mft/website.png" alt="website" width='40px' targer="blank"></a>
 </p>
 
-<hr>
 
-![](./profile-3d-contrib/profile-green.svg)
 
 
 
